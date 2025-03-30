@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ee5c458b57537ce43bec6d25b47b7417
+labels:
+- Animator
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42626
+  packageName: 'Fantasy Environment and Animated Characters (Pixel Art) [free add-on]'
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy Environment and Animated Characters (Pixel Art) [free
+    add-on]/AnimatorControllers/Blacksmith.controller
+  uploadId: 74873

@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: fd6192694249daf4b915712c640e5218
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7520797459199437725
+    second: Spring Tile_0
+  - first:
+      213: 3874277872130436439
+    second: Spring Tile_1
+  - first:
+      213: -2635203484088230557
+    second: Spring Tile_2
+  - first:
+      213: 5264565949253055313
+    second: Spring Tile_3
+  - first:
+      213: 7087655143272684483
+    second: Spring Tile_4
+  - first:
+      213: -6934180930282073862
+    second: Spring Tile_5
+  - first:
+      213: -1073331725590130901
+    second: Spring Tile_6
+  - first:
+      213: -7236405711851340016
+    second: Spring Tile_7
+  - first:
+      213: 1187451032324337903
+    second: Spring Tile_8
+  - first:
+      213: 5929376716582988937
+    second: Spring Tile_9
+  - first:
+      213: 309252535301531774
+    second: Spring Tile_10
+  - first:
+      213: 4397375803790011286
+    second: Spring Tile_11
+  - first:
+      213: -2435107504238716087
+    second: Spring Tile_12
+  - first:
+      213: -2018025007662048275
+    second: Spring Tile_13
+  - first:
+      213: -3648961832876835942
+    second: Spring Tile_14
+  - first:
+      213: -327465202274993556
+    second: Spring Tile_15
+  - first:
+      213: 3251461393698116595
+    second: Spring Tile_16
+  - first:
+      213: 8137646991751194721
+    second: Spring Tile_17
+  - first:
+      213: -1130053779473224780
+    second: Spring Tile_18
+  - first:
+      213: -4295394479208527861
+    second: Spring Tile_19
+  - first:
+      213: -6030482811604856917
+    second: Spring Tile_20
+  - first:
+      213: -4725562280323851875
+    second: Spring Tile_21
+  - first:
+      213: -9221259388428872981
+    second: Spring Tile_22
+  - first:
+      213: 1089548857807231391
+    second: Spring Tile_23
+  - first:
+      213: 5419809665107384801
+    second: Spring Tile_24
+  - first:
+      213: -195016795309769428
+    second: Spring Tile_25
+  - first:
+      213: -5383876493335076676
+    second: Spring Tile_26
+  - first:
+      213: 1362678148078276974
+    second: Spring Tile_27
+  - first:
+      213: 4113815421527582839
+    second: Spring Tile_28
+  - first:
+      213: 3727095723097893471
+    second: Spring Tile_29
+  - first:
+      213: 2897880285637013500
+    second: Spring Tile_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spring Tile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 97
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b2e37317d3f5860800000000000000
+      internalID: 7520797459199437725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dad79a23334c530800000000000000
+      internalID: 3874277872130436439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d9c04a460ed6bd0800000000000000
+      internalID: -2635203484088230557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15378d586de7f0940800000000000000
+      internalID: 5264565949253055313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 209
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb1d310dc86c5260800000000000000
+      internalID: 7087655143272684483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0df3ace27d4cf90800000000000000
+      internalID: -6934180930282073862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0b0a7b72ca11f0800000000000000
+      internalID: -1073331725590130901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 217
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f3e7e585f139b90800000000000000
+      internalID: -7236405711851340016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0fcd92c6caa7010800000000000000
+      internalID: 1187451032324337903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 151
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ca66365b0694250800000000000000
+      internalID: 5929376716582988937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 152
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e786988da8faa4400800000000000000
+      internalID: 309252535301531774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 144
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b2dc8cefd960d30800000000000000
+      internalID: 4397375803790011286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b96fb60a2c43ed0800000000000000
+      internalID: -2435107504238716087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd27e82f88ef3e0800000000000000
+      internalID: -2018025007662048275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bfa68cb884c5dc0800000000000000
+      internalID: -3648961832876835942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 137
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6af81e222c947bf0800000000000000
+      internalID: -327465202274993556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 134
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3d54c19e28f1d20800000000000000
+      internalID: 3251461393698116595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1682bdae2dabee070800000000000000
+      internalID: 8137646991751194721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb2969231e3150f0800000000000000
+      internalID: -1130053779473224780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b080a98aa71b364c0800000000000000
+      internalID: -4295394479208527861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf813e65db6f4ca0800000000000000
+      internalID: -6030482811604856917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99df45a42e6b6eb0800000000000000
+      internalID: -4725562280323851875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 118
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be216fa4171870080800000000000000
+      internalID: -9221259388428872981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99580bd9eade1f00800000000000000
+      internalID: 1089548857807231391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e954fecc28073b40800000000000000
+      internalID: 5419809665107384801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d735602492b4df0800000000000000
+      internalID: -195016795309769428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 131
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0ef24bad0a845b0800000000000000
+      internalID: -5383876493335076676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61946f4e8439e210800000000000000
+      internalID: 1362678148078276974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 116
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778eca77455371930800000000000000
+      internalID: 4113815421527582839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aa02b20dd49b330800000000000000
+      internalID: 3727095723097893471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Tile_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 18
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff600324c6573820800000000000000
+      internalID: 2897880285637013500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spring Tile_0: 7520797459199437725
+      Spring Tile_1: 3874277872130436439
+      Spring Tile_10: 309252535301531774
+      Spring Tile_11: 4397375803790011286
+      Spring Tile_12: -2435107504238716087
+      Spring Tile_13: -2018025007662048275
+      Spring Tile_14: -3648961832876835942
+      Spring Tile_15: -327465202274993556
+      Spring Tile_16: 3251461393698116595
+      Spring Tile_17: 8137646991751194721
+      Spring Tile_18: -1130053779473224780
+      Spring Tile_19: -4295394479208527861
+      Spring Tile_2: -2635203484088230557
+      Spring Tile_20: -6030482811604856917
+      Spring Tile_21: -4725562280323851875
+      Spring Tile_22: -9221259388428872981
+      Spring Tile_23: 1089548857807231391
+      Spring Tile_24: 5419809665107384801
+      Spring Tile_25: -195016795309769428
+      Spring Tile_26: -5383876493335076676
+      Spring Tile_27: 1362678148078276974
+      Spring Tile_28: 4113815421527582839
+      Spring Tile_29: 3727095723097893471
+      Spring Tile_3: 5264565949253055313
+      Spring Tile_30: 2897880285637013500
+      Spring Tile_4: 7087655143272684483
+      Spring Tile_5: -6934180930282073862
+      Spring Tile_6: -1073331725590130901
+      Spring Tile_7: -7236405711851340016
+      Spring Tile_8: 1187451032324337903
+      Spring Tile_9: 5929376716582988937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

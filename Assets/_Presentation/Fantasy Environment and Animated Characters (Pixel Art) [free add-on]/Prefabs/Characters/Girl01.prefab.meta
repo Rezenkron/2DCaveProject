@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f5a396c364c49f54baa62db9e5f2d498
+labels:
+- Prefab
+- Animated
+- Characters
+- Pixelart
+- Fantasy
+- Girl
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42626
+  packageName: 'Fantasy Environment and Animated Characters (Pixel Art) [free add-on]'
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy Environment and Animated Characters (Pixel Art) [free
+    add-on]/Prefabs/Characters/Girl01.prefab
+  uploadId: 74873

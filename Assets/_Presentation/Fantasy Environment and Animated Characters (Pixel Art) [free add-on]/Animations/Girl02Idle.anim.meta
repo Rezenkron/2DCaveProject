@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0bac4e2378059594c910b84cffd2a3b5
+labels:
+- Animations
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42626
+  packageName: 'Fantasy Environment and Animated Characters (Pixel Art) [free add-on]'
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy Environment and Animated Characters (Pixel Art) [free
+    add-on]/Animations/Girl02Idle.anim
+  uploadId: 74873

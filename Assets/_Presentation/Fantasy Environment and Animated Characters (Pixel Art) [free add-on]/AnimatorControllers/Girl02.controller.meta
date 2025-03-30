@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d471239698013734c85b08ab4bb99ef3
+labels:
+- Animator
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42626
+  packageName: 'Fantasy Environment and Animated Characters (Pixel Art) [free add-on]'
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy Environment and Animated Characters (Pixel Art) [free
+    add-on]/AnimatorControllers/Girl02.controller
+  uploadId: 74873
