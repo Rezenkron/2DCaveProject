@@ -10,6 +10,7 @@ public class CaveGenerator : MonoBehaviour
     [SerializeField] private int _offsetY;
     [SerializeField] private float _noiseValue;
     [SerializeField, Range(0, 1)] private float _wallsThickness = 0.5f;
+    [SerializeField, Range(0, 1)] private float _waterLevel = 0.2f;
 
     [SerializeField] private Tilemap _groundTilemap;
     [SerializeField] private Tilemap _wallsTilemap;
@@ -35,25 +36,35 @@ public class CaveGenerator : MonoBehaviour
             {
                 GenerateGround(x, y);
                 GenerateWalls(x, y);
-                RenderWalls(x, y);
+                RenderMap(x, y);
             }
         }
 
-        for(int x = -_bordersSize; x < _width + _bordersSize; x++)
+        CreateBorders();
+    }
+
+    private void CreateBorders()
+    {
+        for (int x = -_bordersSize; x < _width + _bordersSize; x++)
         {
-            for(int y = -_bordersSize; y < _height + _bordersSize; y++)
+            for (int y = -_bordersSize; y < _height + _bordersSize; y++)
             {
-                if(x < 0 || y < 0 || x >= _width || y >= _height)
-                _wallsTilemap.SetTile(new Vector3Int(x, y, 0), _wallsTile);
+                if (x < 0 || y < 0 || x >= _width || y >= _height)
+                    _wallsTilemap.SetTile(new Vector3Int(x, y, 0), _wallsTile);
             }
         }
     }
 
-    private void RenderWalls(int x, int y)
+    private void RenderMap(int x, int y)
     {
         if (map[x, y] == 1)
             _wallsTilemap.SetTile(new Vector3Int(x, y, 0), _wallsTile);
-        if(noiseValue > 0 && noiseValue < 0.2f)
+        GenerateWater(x, y);
+    }
+
+    private void GenerateWater(int x, int y)
+    {
+        if (noiseValue > 0 && noiseValue < _waterLevel)
             _wallsTilemap.SetTile(new Vector3Int(x, y, 0), _waterTile);
     }
 
